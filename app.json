@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "745c87bd-6b21-46eb-b309-a51ba43cbc90"
+      }
+    },
+    "owner": "ram_kumar89"
   }
 }
